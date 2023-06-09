@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Handle.qml</file>
+        <file>Seting.qml</file>
+        <file>BaseController.qml</file>
+        <file>ControllerOption.qml</file>
+        <file>NomalTouchPoint.qml</file>
+        <file>EditTouchPoint.qml</file>
+        <file>FileOption.qml</file>
+    </qresource>
+    <qresource prefix="/Ui">
+        <file>Resources/DirectionButton.png</file>
+        <file>Resources/set.png</file>
+        <file>Resources/editButton.png</file>
+        <file>Resources/Button.png</file>
+        <file>Resources/Button_Press.png</file>
+        <file>Resources/JoystickBack.png</file>
+        <file>Resources/JoystickButton.png</file>
+        <file>Resources/handle.png</file>
+        <file>Resources/Space.png</file>
+        <file>Resources/handle_disconnect.png</file>
+        <file>Resources/Space_Press.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ui/background.png</file>
+        <file>Ui/Button.png</file>
+        <file>Ui/Button_Press.png</file>
+        <file>Ui/rocker.png</file>
+        <file>Ui/Space.png</file>
+        <file>Ui/Space_Press.png</file>
+    </qresource>
+</RCC>
